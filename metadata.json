@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library — Intelligent Seat Finder & Booking System",
+  "description": "Real-time university library seat finder, atomic booking engine, QR code check-in, 20-minute break timer with server-side auto-release, and admin analytics dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
